@@ -2,6 +2,11 @@
 name = "dcc-ex"
 version = "0.1.0"
 edition = "2024"
+license = "Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/ladvoc/dcc-ex-rs"
+keywords = ["dcc", "railway", "serial", "async"]
+categories = ["hardware-support", "parser-implementations"]
 
 [dependencies]
 bytes = "1.12.1"
